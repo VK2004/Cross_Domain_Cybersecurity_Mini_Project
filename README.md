@@ -11,4 +11,4 @@ The proposed ensembled model integrates a CNN-GRU architecture with a simulated 
 ## Results
 | Classifier	                        |  Accuracy	  | Precision   |	Recall  |	F1-Score | 
 | ----------------------------------- | ----------- | ----------- | ------- | -------- | 
-| Proposed Ensembled Model	          |  99.77%	    | 99.89%	    | 99.88%	| 99.89%	 |
+| Proposed Ensembled Model	          |  99.77%	    | 99.61%	    | 99.74%	| 99.67%	 |
